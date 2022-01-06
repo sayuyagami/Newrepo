@@ -1,2 +1,2 @@
-hey there its c2 here
-second css file
+hey there its j2 here
+second js file
